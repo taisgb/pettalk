@@ -58,3 +58,5 @@ Você pode visualizar o projeto online em:
 
 - Este projeto não possui backend.
 - O botão de CTA leva a um link externo fictício (`taisgb.com.br`).
+> ⚠️ As imagens de pessoas e produtos utilizadas neste projeto foram geradas por inteligência artificial, com finalidade exclusivamente ilustrativa.
+
