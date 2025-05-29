@@ -49,7 +49,7 @@ h1, h2, h3, h5 {
 
 /* HERO */
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.082), rgba(0, 0, 0, 0.034)), url('../assets/hero1.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.082), rgba(0, 0, 0, 0.034)), url('/pettalk/assets/hero1.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
